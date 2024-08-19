@@ -17,54 +17,21 @@
 
 - ⚡ Fun fact **I make song covers.**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">📧 Connect with me 📧</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chngdev" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<h3 align="left">🛠️ Languages | Frameworks | Tools 🛠️</h3>
 
-
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Frontend</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,html,css,bootstrap" alt="React, Express, Node.js, Tailwind CSS, Bootstrap" />
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Backend</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Python, Java, C, C++," />
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Database</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="Python, Java, C, C++," />
-    </p>
-  </div>
-
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Programming</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Python, Java, C, C++," />
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Tools</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,photoshop,pr,ae" alt="Git, GitHub, VSCode, Figma, Photoshop, Premiere Pro, After Effects" />
-    </p>
-  </div>
-  
-
+<div align="left">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,html,css,bootstrap,nodejs,express,php,ae&theme=light" alt="React, Express, Node.js, Tailwind CSS, Bootstrap" /><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,python,java,c,cpp,git,github,vscode,figma,notion,photoshop,pr&theme=light" alt="React, Express, Node.js, Tailwind CSS, Bootstrap" />
 </div>
 
+<h3 align="left">⚡ Stats ⚡</h3>
+
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre113001&show_icons=true&locale=en&layout=compact" alt="andre113001" /></p>
 
