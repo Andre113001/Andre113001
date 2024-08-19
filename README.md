@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Capacitor by Ionic**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at [Coming soon...]
 
 - 💬 Ask me about **React JS, Freelancing and Web Development in General**
 
