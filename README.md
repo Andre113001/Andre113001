@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Andre113001/Andre113001/blob/main/chngdev%20banner.png)
+![MasterHead](https://github.com/Andre113001/Andre113001/blob/main/new%20new%20chngdev%20banner.png)
 <h1 align="center">Wassup 👋, I'm Marcus a.k.a chng_dev;</h1>
 <h3 align="center">A passionate full-stack developer dedicated to creating web applications and anything related to coding. I love to learn and never intend to stop.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
