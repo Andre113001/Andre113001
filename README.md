@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **marcusandre.genorga@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Mt3smy8vphRR5fYZS4dBLy9TmKK0P-n/view?usp=sharing](https://drive.google.com/file/d/16Mt3smy8vphRR5fYZS4dBLy9TmKK0P-n/view?usp=sharing)
+- 📄 Know about my experiences [from my resume](https://www.canva.com/design/DAGHbur5ajM/5GvplDi_6tbxk5B-8AMMgA/view)
 
 - ⚡ Fun fact **I make song covers.**
 
