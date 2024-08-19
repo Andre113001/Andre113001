@@ -1,5 +1,6 @@
 <h1 align="center">Wassup 👋, I'm Marcus a.k.a CHNG_DEV;</h1>
 <h3 align="center">A passionate full-stack developer dedicated to creating web applications and anything related to coding. I love to learn and never intend to stop.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre113001&label=Profile%20views&color=0e75b6&style=flat" alt="andre113001" /> </p>
 
