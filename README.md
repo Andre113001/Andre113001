@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre113001&label=Profile%20views&color=0e75b6&style=flat" alt="andre113001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre113001" alt="andre113001" /></a> </p>
-
 - 🌱 I’m currently learning **MongoDB, Capacitor by Ionic**
 
 - 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
