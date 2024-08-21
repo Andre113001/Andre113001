@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre113001&label=Profile%20views&color=0e75b6&style=flat" alt="andre113001" /> </p>
 
+- 💻 I'm currently working on **SynergyHR & Irosin Emergency Hotline App**
+
 - 🌱 I’m currently learning **MongoDB, Capacitor by Ionic**
 
 - 👨‍💻 All of my projects are available at [Coming soon...]
