@@ -7,6 +7,8 @@
 
 - 💻 I'm currently working on **SynergyHR & Irosin Emergency Hotline App**
 
+- 🚀 I'm also project lead for our startup — BiNNO. Which you access at our [BiNNO Landing Page](https://binnostartup.site)
+
 - 🌱 I’m currently learning **MongoDB, Capacitor by Ionic**
 
 - 👨‍💻 All of my projects are available at [Coming soon...]
